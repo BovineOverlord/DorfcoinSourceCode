@@ -1,0 +1,9 @@
+Building Dorfcoin
+
+See doc/readme-qt.rst for instructions on building Dorfcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dorfcoin.
+
+See doc/build-*.txt for instructions on building dorfcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dorfcoin.
